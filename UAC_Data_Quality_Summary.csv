@@ -1,0 +1,11 @@
+Metric,Value
+Start Date,2023-01-12
+End Date,2025-12-21
+Expected Calendar Days,1075
+Observed Dates,720
+Missing Calendar Dates,355
+Duplicate Dates,0
+Missing Values in Observed Records,0
+Transfers > CBP Custody,86
+Discharges > HHS Care,0
+Reporting Coverage (%),66.98

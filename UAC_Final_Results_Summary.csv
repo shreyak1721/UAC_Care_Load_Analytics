@@ -1,0 +1,17 @@
+Metric,Value
+Analysis Start Date,2023-01-12
+Analysis End Date,2025-12-21
+Observed Records,720
+Average Total System Load,6232.77
+Minimum Total System Load,2002.0
+Maximum Total System Load,11762.0
+75th Percentile System Load,8249.5
+90th Percentile System Load,9920.9
+Average Net Intake Pressure,-44.74
+Positive Net Intake Days,238
+Negative Net Intake Days,475
+Care Load Volatility Index,0.4682
+Backlog Accumulation Rate,33.06
+Discharge Offset Ratio,134.77
+Peak Load Date,2023-12-20
+Forecast Horizon,30 observations

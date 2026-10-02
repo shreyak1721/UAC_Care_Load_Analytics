@@ -1,0 +1,10 @@
+KPI,Definition
+Average Total Children Under Care,Average daily combined CBP custody and HHS care population.
+Average Net Intake Pressure,Average daily transfers into HHS care minus HHS discharges.
+Care Load Volatility Index,Standard deviation of total system load divided by its mean.
+Positive Net Intake Day Rate,Percentage of observed days where net intake pressure was positive.
+Discharge Offset Ratio,Total HHS discharges divided by total CBP-to-HHS transfers.
+Peak Total System Load,Highest observed combined CBP and HHS population.
+Minimum Total System Load,Lowest observed combined CBP and HHS population.
+75th Percentile System Load,Load level at or below which 75% of observations fall.
+90th Percentile System Load,Load level at or below which 90% of observations fall.
